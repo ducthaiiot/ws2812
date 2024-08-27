@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "EEPROM",
+        "println"
+    ],
+    "files.associations": {
+        "algorithm": "cpp",
+        "thread": "cpp",
+        "*.tcc": "cpp",
+        "new": "cpp"
+    }
+}
